@@ -1,0 +1,6 @@
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\GrowlForWindows10\bin\Debug\GrowlForWindows10.exe.config
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\GrowlForWindows10\bin\Debug\GrowlForWindows10.exe
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\GrowlForWindows10\bin\Debug\GrowlForWindows10.pdb
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\GrowlForWindows10\obj\Debug\GrowlForWindows10.csprojResolveAssemblyReference.cache
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\GrowlForWindows10\obj\Debug\GrowlForWindows10.exe
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\GrowlForWindows10\obj\Debug\GrowlForWindows10.pdb
