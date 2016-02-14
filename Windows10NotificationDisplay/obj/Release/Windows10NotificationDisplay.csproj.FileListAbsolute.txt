@@ -1,0 +1,18 @@
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Release\GrowlWindows10Notifier.SampleSettingsPanel.resources
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Release\Windows10NotificationDisplay.csproj.GenerateResource.Cache
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\bin\Release\Growl.CoreLibrary.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\bin\Release\Growl.DisplayStyle.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Release\Windows10NotificationDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\bin\Release\Windows10Notification.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\bin\Release\Windows10Notification.pdb
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Release\Windows10Notification.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Release\Windows10Notification.pdb
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\Windows10NotificationDisplay\bin\Release\Windows10Notification.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\Windows10NotificationDisplay\bin\Release\Windows10Notification.pdb
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\Windows10NotificationDisplay\bin\Release\Growl.CoreLibrary.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\Windows10NotificationDisplay\bin\Release\Growl.DisplayStyle.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\Windows10NotificationDisplay\obj\Release\Windows10NotificationDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\Windows10NotificationDisplay\obj\Release\GrowlWindows10Notifier.SampleSettingsPanel.resources
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\Windows10NotificationDisplay\obj\Release\Windows10NotificationDisplay.csproj.GenerateResource.Cache
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\Windows10NotificationDisplay\obj\Release\Windows10Notification.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\Windows10NotificationDisplay\obj\Release\Windows10Notification.pdb

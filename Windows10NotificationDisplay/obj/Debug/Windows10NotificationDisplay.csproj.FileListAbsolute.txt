@@ -1,0 +1,7 @@
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\bin\Debug\Sample Display.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\bin\Debug\Sample Display.pdb
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Debug\Windows10NotificationDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Debug\GrowlWindows10Notifier.SampleSettingsPanel.resources
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Debug\Windows10NotificationDisplay.csproj.GenerateResource.Cache
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Debug\Sample Display.dll
+C:\Users\Jonno\Documents\Visual Studio 2015\Projects\GrowlForWindows10\Sample Display\obj\Debug\Sample Display.pdb

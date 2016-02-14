@@ -1,0 +1,8 @@
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\WindowsNotification\obj\Release\WindowsNotification.csprojResolveAssemblyReference.cache
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\WindowsNotification\bin\Release\WindowsNotification.exe.config
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\WindowsNotification\bin\Release\WindowsNotification.exe
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\WindowsNotification\bin\Release\WindowsNotification.pdb
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\WindowsNotification\bin\Release\Windows.winmd
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\WindowsNotification\bin\Release\Windows.xml
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\WindowsNotification\obj\Release\WindowsNotification.exe
+C:\Users\Jonno\Documents\Visual Studio 2015\projects\GrowlForWindows10\WindowsNotification\obj\Release\WindowsNotification.pdb
